@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...more projects
 - 📫 How to reach me ...
 WhatsApp 07087120961
-FB, IG , Twitter @ itz_mic_adigz
+FB, IG , Twitter @ iam_the_mia
 
 <!---
 MIADIGITALS/MIADIGITALS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
