@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MIADIGITALS
-- 👀 I’m interested in ...python, HTML CSS and JavaScript
-- 🌱 I’m currently learning ... Python
+- 👋 Hi, I’m MIA
+- 👀 I’m interested in ...python(AI), HTML CSS and JavaScript(Web development)
+- 🌱 I’m currently learning ... Python and JavaScript
 - 💞️ I’m looking to collaborate on ...more projects
 - 📫 How to reach me ...
 WhatsApp 07087120961
